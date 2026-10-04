@@ -53,6 +53,12 @@ node scripts/generate-readme.mjs
 | UIZZE | Authenticated UI reference MCP for Codex, Claude Code, Cursor, and Copilot. It provides focused UI reference and hosted design-material search grounded in 800,000+ real web and iOS screens; the free anti-ui-slop Skill and GitHub Action are separate. | streamable-http | [Homepage](https://uizze.com)<br>[GitHub](https://github.com/uizze/uizze)<br>[Package](https://uizze.com/mcp) |
 | VideoGen | Create editable videos from scripts and storyboards, manage projects, and export results through the VideoGen API. | streamable-http, stdio | [Homepage](https://videogen.io)<br>[GitHub](https://github.com/video-gen/videogen-mcp)<br>[Package](https://www.npmjs.com/package/@videogen/mcp) |
 
+### Developer Tools
+
+| Server | Description | Transport | Links |
+|---|---|---|---|
+| Remote Arc | Connect MCP clients to explicitly paired Windows, macOS, and Linux computers for permission-scoped file operations, process inspection, terminal execution, and local undo through a hosted OAuth-protected relay. Source-available core implementation. | streamable-http | [Homepage](https://remotearc.app)<br>[GitHub](https://github.com/yaohuangguan/remote-arc)<br>[Package](https://www.npmjs.com/package/remotelink) |
+
 ### Files
 
 | Server | Description | Transport | Links |
